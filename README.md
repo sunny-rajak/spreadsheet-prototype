@@ -77,11 +77,3 @@ npm run type-check
 
 Both commands should complete without errors.
 ```
-
----
-
-## 📷 Screenshots
-
-```markdown
-![image alt](https://github.com/sunny-rajak/spreadsheet-prototype/blob/fb32e610fee4de14f1b589edf9c205468f75c053/Screenshot.png)
-```
