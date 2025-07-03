@@ -74,7 +74,7 @@ To ensure code quality, run:
 ```bash
 npm run lint
 npm run type-check
-`
+
 
 Both commands should complete without errors.
 
@@ -82,5 +82,5 @@ Both commands should complete without errors.
 
 ## 📷 Screenshots
 
-![Screenshot](./Screenshot 2025-07-03 135940.png)
+![Screenshot](./Screenshot.png)
 ```
