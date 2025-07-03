@@ -77,3 +77,9 @@ npm run type-check
 
 Both commands should complete without errors.
 ```
+
+## 📷 Screenshots
+
+```markdown
+![Screenshot](./Screenshot.png)
+```
